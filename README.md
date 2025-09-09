@@ -1,27 +1,42 @@
-# Hi, I'm Yash Patel 👋  
+![Aquarium Header](https://pixabay.com/gifs/aquarium-fish-underwater-water-3534/)  
 
-💻 **About Me**  
-- B.S. in Computer Science, University of Houston (2025)
-- M.S. in Computer Science, Texas A&M University (expected 2027)  
-- Focused on high-performance computing, CUDA, parallel programming, and quantitative research applications  
-- Experienced in building scalable fraud detection and anti-money laundering pipelines with deep learning and graph methods  
+# Hey, I'm Yash 👋
 
-🚀 **Highlighted Projects**  
-- ⚡ **CUDA Renderer** – Implemented atomicity and ordering for correctness in GPU rendering  
-- 🌌 **N-Body Simulation** – Optimized from O(n²) to O(n) using advanced algorithms in CUDA  
-- 🛰️ **Satellite Network Simulation** – Built synchronous message-passing system with time-based forwarding and reporting  
-- 📊 **Fraud/AML Detection Pipeline** – Combined statistical, unsupervised, and neural network models (ANN, RNN) with SMOTE for class balance  
-- 🎨 **Qt-VTK Visualization App** – Interactive 2D/3D visualization of vector and scalar fields with streamline, arrow, and LIC rendering  
+🎓 B.S. in Computer Science, University of Houston (2025)  
+🎓 M.S. in Computer Science, Texas A&M University (2027)  
+🔬 Focus: CUDA, parallel programming, fraud detection, quantitative research  
+💻 Interested in HPC, full-stack web, data systems, visualization  
 
-🛠 **Skills & Tools**  
-- Languages: Python, C++, CUDA, Haskell, JavaScript, R, MATLAB  
-- Frameworks/Libraries: PyTorch, TensorFlow, VTK, Qt, OpenMP, Pandas, NumPy  
-- Areas: Parallel/High-Performance Computing, Data Visualization, Machine Learning, Quantitative Research  
+---
 
-📊 **GitHub Stats**  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pebbleeee&show_icons=true&theme=default)  
+##  🐠 About Me  
+When I’m not coding, I’m either weightlifting at the gym or setting up aquascapes—creating balance in both tanks and code. I approach software like an ecosystem: structure, flow, adaptability.
 
-🌐 **Connect with Me**  
-- [LinkedIn](https://linkedin.com/in/yashpatelll)  
-- [GitHub](https://github.com/pebbleeee)  
-- [Email](mailto:yash.pateltx@gmail.com)  
+---
+
+##  Languages & Tools  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pebbleeee&layout=compact&theme=default)  
+
+- C++ | CUDA | Python | JavaScript/TypeScript  
+- React | Node.js | Express | PostgreSQL | Qt/VTK | OpenMP  
+- TensorFlow | PyTorch  
+
+---
+
+##  Highlighted Projects  
+- **CUDA N-body Simulation** — optimized from O(n²) to O(n) using Barnes-Hut on GPU  
+- **CUDA Renderer** — ensured atomic correctness for accurate GPU rendering  
+- **Fraud Detection Pipeline** — ANN + RNN on transaction data with SMOTE & ROC/F1 metrics  
+- **Qt-VTK Visualization App** — interactive 2D/3D vector field visualizations (arrows, streamlines, LIC)  
+- **Collision Heat Mapping** — colored particles by collision force to simulate planetary core heating  
+- **Full-Stack Web Apps** — end-to-end React, Node.js, PostgreSQL solutions  
+
+---
+
+##  Aquarium Metaphor  
+I see my GitHub as an aquarium: My projects are the fish, tools are the plants and rocks, and commits are the water changes that keep it alive. Harmony matters.
+
+---
+
+##  Connect with Me  
+[LinkedIn](https://www.linkedin.com/in/yashpatelll) | [GitHub](https://github.com/pebbleeee) | yash.pateltx@gmail.com
