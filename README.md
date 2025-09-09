@@ -1,4 +1,4 @@
-![Aquarium Header](https://i.pinimg.com/originals/b9/b1/03/b9b103f0ee5946233753aa67f6b7138d.gif)  
+![Aquarium Header](https://i.pinimg.com/originals/1c/7a/d9/1c7ad9bc3bb97ebbf58a2fd85dcc3ee2.gif) 
 
 # Hey, I'm Yash 👋
 
