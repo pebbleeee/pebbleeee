@@ -1,4 +1,4 @@
-![Aquarium Header]([[https://pixabay.com/gifs/aquarium-fish-underwater-water-3534/](https://www.pinterest.com/pin/543246773783653333/)](https://i.pinimg.com/originals/b9/b1/03/b9b103f0ee5946233753aa67f6b7138d.gif))  
+![Aquarium Header](https://i.pinimg.com/originals/b9/b1/03/b9b103f0ee5946233753aa67f6b7138d.gif)  
 
 # Hey, I'm Yash 👋
 
