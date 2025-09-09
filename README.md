@@ -51,4 +51,4 @@ I see my GitHub as an aquarium: My projects are the fish, tools are the plants a
 ---
 
 ## 🐠 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/yashpatelll) | [GitHub](https://github.com/pebbleeee) | yash.pateltx@gmail.com
+[LinkedIn](https://www.linkedin.com/in/yashpatelll) 
