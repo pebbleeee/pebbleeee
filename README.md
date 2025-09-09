@@ -17,9 +17,22 @@ When I’m not coding, I’m either weightlifting at the gym or setting up aquas
 ## 🐟 Languages & Tools  
 Swimming through my toolkit 🐠🐡🐟  
 
-- 🐡 **C++** | 🐠 **CUDA** | 🐟 **Python** | 🐡 **JavaScript/TypeScript**  
-- 🐠 **React** | 🐟 **Node.js** | 🐡 **Express** | 🐠 **PostgreSQL** | 🐟 **Qt/VTK** | 🐡 **OpenMP**  
-- 🐠 **TensorFlow** | 🐟 **PyTorch**  
+🐡 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+🐠 ![CUDA](https://img.shields.io/badge/CUDA-7610F2?style=for-the-badge&logo=nvidia&logoColor=white)  
+🐟 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+🐡 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+🐠 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+
+🐟 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+🐡 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+🐠 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
+🐟 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+🐡 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)  
+🐠 ![OpenMP](https://img.shields.io/badge/OpenMP-ED1C24?style=for-the-badge&logo=gnu&logoColor=white)  
+
+🐟 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+🐡 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+  
 
 ---
 
