@@ -4,7 +4,7 @@
 
 🎓 B.S. in Computer Science, University of Houston (2025)  
 🎓 M.S. in Computer Science, Texas A&M University (2027)  
-🔬 Focus: CUDA, parallel programming, fraud detection, quantitative research  
+🔬 Focus: CUDA, parallel programming, Software Engineering, Quantitative Research  
 💻 Interested in HPC, full-stack web, data systems, visualization  
 
 ---
